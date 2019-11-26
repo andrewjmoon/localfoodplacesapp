@@ -23,7 +23,7 @@ const useStyles = makeStyles(theme => ({
     border: 0,
     color: 'white',
     height: 60,
-    width: 1600,
+    width: 2000,
     padding: '0 30px',
     boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)'
   },
@@ -31,7 +31,7 @@ const useStyles = makeStyles(theme => ({
     marginRight: theme.spacing(2)
   },
   title: {
-    flexGrow: 0.15,
+    flexGrow: 0.25,
     color: 'black'
   },
   hide: {
@@ -84,7 +84,11 @@ function ButtonAppBar() {
           >
             <MenuIcon />
           </IconButton>
+          {!isAuthenticated && (
+            <Button onClick={() => loginWithRedirect({})}>Log in</Button>
+          )}
 
+          {isAuthenticated && <Button onClick={() => logout()}>Log out</Button>}
           <Typography variant="h6" className={classes.title}>
             <Link className="Link" to="/">
               <p>Home</p>
@@ -99,11 +103,6 @@ function ButtonAppBar() {
               <p>Searching for the Local Food Places</p>
             </Link>
           </Typography>
-          {!isAuthenticated && (
-            <Button onClick={() => loginWithRedirect({})}>Log in</Button>
-          )}
-
-          {isAuthenticated && <Button onClick={() => logout()}>Log out</Button>}
         </Toolbar>
       </AppBar>
       <Drawer
