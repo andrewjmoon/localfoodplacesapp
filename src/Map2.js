@@ -68,6 +68,7 @@ export default function App() {
               <p>{selectedPark.properties.ADDRESS}</p>
               <p>{selectedPark.properties.DESCRIPTION}</p>
               <a
+                className="Link2"
                 href={selectedPark.properties.WEBSITE}
                 target="_blank"
                 rel="noopener noreferrer"
