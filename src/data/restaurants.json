@@ -757,6 +757,22 @@
         "type": "Point",
         "coordinates": [-94.15442, 30.0682316]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Al Basha",
+        "ADDRESS": "2578 I-10 FRONTAGE RD, BEAUMONT, TX 77703",
+        "TYPE": "Mediterranean",
+        "WEBSITE": "https://albashamediterranean.com/",
+        "DESCRIPTION": "A variety of Mediterranean dishes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1278549, 30.0965132]
+      }
     }
   ]
 }
