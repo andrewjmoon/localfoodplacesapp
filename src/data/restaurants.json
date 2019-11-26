@@ -677,6 +677,86 @@
         "type": "Point",
         "coordinates": [-94.1083696, 30.0699166]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Republic Chicken",
+        "ADDRESS": "1990 Interstate 10 Access Rd, Beaumont, TX 77707",
+        "TYPE": "Chicken",
+        "WEBSITE": "https://m.facebook.com/RepublicChicken16/?ref=content_filter",
+        "DESCRIPTION": "Long Time Mexican Restaurant."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1379695, 30.0580671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Republic Chicken",
+        "ADDRESS": "1990 Interstate 10 Access Rd, Beaumont, TX 77707",
+        "TYPE": "Chicken",
+        "WEBSITE": "https://m.facebook.com/RepublicChicken16/?ref=content_filter",
+        "DESCRIPTION": "Family Style Southern Dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1379695, 30.0580671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Lupe Tortilla",
+        "ADDRESS": "2050 Interstate 10 Access Rd, Beaumont, TX 77707",
+        "TYPE": "Tex-Mex",
+        "WEBSITE": "http://www.originallupetortilla.com/",
+        "DESCRIPTION": "Tex-Mex and Margaritas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1384171, 30.0577193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Floyds Cajun Seafood Company",
+        "ADDRESS": "2290 I-10 S, Beaumont, TX 77707",
+        "TYPE": "Seafood",
+        "WEBSITE": "http://floydsseafood.com/",
+        "DESCRIPTION": "Cajun Louisiana Seafood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1417261, 30.0547311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "K Asian Kitchen",
+        "ADDRESS": "5540 College St, Beaumont, TX 77707",
+        "TYPE": "Seafood and Wings",
+        "WEBSITE": "https://www.yelp.com/biz/k-asian-kitchen-beaumont",
+        "DESCRIPTION": "Seafood place known for their crawfish."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.15442, 30.0682316]
+      }
     }
   ]
 }

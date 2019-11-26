@@ -308,6 +308,22 @@
         "type": "Point",
         "coordinates": [-94.1344053, 30.0401229]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Cotton Creek Winery",
+        "ADDRESS": "6755 Phelan Blvd #10, Beaumont, TX 77706",
+        "TYPE": "Winery",
+        "WEBSITE": "https://www.cottoncreekwinery.com/",
+        "DESCRIPTION": "A Winery Showcase and gift store."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1738214, 30.0758059]
+      }
     }
   ]
 }
