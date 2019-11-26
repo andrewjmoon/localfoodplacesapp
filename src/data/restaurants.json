@@ -1,0 +1,682 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 1,
+        "NAME": "Krazy Kajun",
+        "ADDRESS": "3015 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "Seafood",
+        "WEBSITE": "https://www.yelp.com/biz/krazy-kajun-seafood-beaumont",
+        "DESCRIPTION": "Good affordable seafood with some aspects of Chinese food as well."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1725289, 30.1054104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 2,
+        "NAME": "Bruno's Itailian Kitchen",
+        "ADDRESS": "3199 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "Itailian",
+        "WEBSITE": "https://www.brunosik.com/",
+        "DESCRIPTION": "Fine Itailian Food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1692536, 30.1096776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 3,
+        "NAME": "Koi Japanese Sushi Bar & Lounge",
+        "ADDRESS": "3350 Dowlen Rd C, Beaumont, TX 77706",
+        "TYPE": "Japanese",
+        "WEBSITE": "https://www.brunosik.com/",
+        "DESCRIPTION": "Casual Japanese Dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.167843, 30.1100862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 4,
+        "NAME": "Novrozskys",
+        "ADDRESS": "3925 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "American",
+        "WEBSITE": "https://novrozskys.com/",
+        "DESCRIPTION": "Casual American Dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.167843, 30.1100862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 5,
+        "NAME": "Sweet Basil Vietnamese Noodle House",
+        "ADDRESS": "4026 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "Vietnamese",
+        "WEBSITE": "https://sweet-basil-vietnamese-noodle-house.business.site/",
+        "DESCRIPTION": "Vietnamese Noodle House."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1664468, 30.1177594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 6,
+        "NAME": "Pho Sky",
+        "ADDRESS": "4374 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "Vietnamese",
+        "WEBSITE": "https://sweet-basil-vietnamese-noodle-house.business.site/",
+        "DESCRIPTION": "Serving classic Vietnamese food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1664468, 30.1177594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Tokyo Japanese Steak House & Sushi Bar",
+        "ADDRESS": "4438 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "Japanese",
+        "WEBSITE": "https://www.tripadvisor.com/Restaurant_Review-g60737-d515294-Reviews-Tokyo_Japanese_Steak_House_and_Sushi_Bar-Beaumont_Texas.html",
+        "DESCRIPTION": "Serving Japanese Food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1583082, 30.1217849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 8,
+        "NAME": "la Cantina Mexican Grill",
+        "ADDRESS": "4555 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "Mexican",
+        "WEBSITE": "https://www.lacantinamexicangrill.net/",
+        "DESCRIPTION": "Importing Mexican flavors."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1568099, 30.1240526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 8,
+        "NAME": "Amacate Tortilla Bar",
+        "ADDRESS": "7150 Eastex Fwy, Beaumont, TX 77708",
+        "TYPE": "Mexican",
+        "WEBSITE": "http://www.amacate.com/",
+        "DESCRIPTION": "Authentic Mexican food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1680508, 30.13504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 8,
+        "NAME": "Crustaceans Boil House",
+        "ADDRESS": "10485 Eastex Fwy, Beaumont, TX 77708",
+        "TYPE": "Seafood",
+        "WEBSITE": "https://www.facebook.com/CrustaceansBoilHouse/",
+        "DESCRIPTION": "Providing boiled seafood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1855139, 30.1703614]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 9,
+        "NAME": "Ralph & Kacoo's",
+        "ADDRESS": "5055 Eastex Fwy, Beaumont, TX 77706",
+        "TYPE": "Seafood",
+        "WEBSITE": "http://www.ralphandkacoos.com/",
+        "DESCRIPTION": "Serving New Orlean's style seafood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1514231, 30.121769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 10,
+        "NAME": "Crazy Cajun Beaumont",
+        "ADDRESS": "2310 N 11th St, Beaumont, TX, 77703",
+        "TYPE": "Seafood",
+        "WEBSITE": "http://www.crazycajunbeaumont.com/",
+        "DESCRIPTION": "Louisiana Style Seafood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1291318, 30.0996786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 11,
+        "NAME": "Cafe Del Rio",
+        "ADDRESS": "2830 I-10, Beaumont, TX 77703",
+        "TYPE": "Tex-Mex",
+        "WEBSITE": "http://www.cafedelrio.net/",
+        "DESCRIPTION": "Serving Tex-Mex Food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1330634, 30.0971698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 11,
+        "NAME": "Suga's Deep South Cuisine & Jazz Bar",
+        "ADDRESS": "461 Bowie St, Beaumont, TX 77701",
+        "TYPE": "Southern Food",
+        "WEBSITE": "https://www.sugasdeepsouth.com/",
+        "DESCRIPTION": "Upscale deep south dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0996668, 30.0820658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 12,
+        "NAME": "Chuck's Sandwich Shop",
+        "ADDRESS": "493 Pearl St, Beaumont, TX 77701",
+        "TYPE": "Sandwiches",
+        "WEBSITE": "https://www.yelp.com/biz/chucks-sandwich-shop-beaumont",
+        "DESCRIPTION": "Serving Breakfast and Lunch Comfort Food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0984202, 30.0835832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 13,
+        "NAME": "la Cantina Mexican Grill",
+        "ADDRESS": "4555 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "Mexican",
+        "WEBSITE": "https://www.lacantinamexicangrill.net/",
+        "DESCRIPTION": "Importing Mexican flavors."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1568099, 30.1240526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 14,
+        "NAME": "Madisons",
+        "ADDRESS": "4020 Dowlen Rd, Beaumont, TX 77706",
+        "TYPE": "Bar and Grill",
+        "WEBSITE": "https://www.yelp.com/biz/madisons-beaumont",
+        "DESCRIPTION": "Food, Spirits, and open late night."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1664649, 30.117684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 15,
+        "NAME": "Vautrot's Cajun Cuisine",
+        "ADDRESS": "13353 TX-105, Bevil Oaks, TX 77713",
+        "TYPE": "Seafood",
+        "WEBSITE": "https://www.yelp.com/biz/vautrots-cajun-cuisine-beaumont",
+        "DESCRIPTION": "Good affordable comfort seafood "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.2669144, 30.1340727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 16,
+        "NAME": "Amelia Farm and Market",
+        "ADDRESS": "8600 Dishman Rd, Beaumont, TX 77713",
+        "TYPE": "Farm to Market Food",
+        "WEBSITE": "https://www.ameliafarmandmarket.com/",
+        "DESCRIPTION": "Food from the farm using season and local ingredients. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1939456, 30.0971639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 17,
+        "NAME": "DaddiO's Burger",
+        "ADDRESS": "4230 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Burgers and Shakes",
+        "WEBSITE": "https://daddiosburger.com/",
+        "DESCRIPTION": "Modern take on the classic burger experience. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1475038, 30.0863772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 18,
+        "NAME": "Carmela's Mexican Restaurant",
+        "ADDRESS": "3925 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Mexican",
+        "WEBSITE": "https://www.yelp.com/biz/carmelas-mexican-restaurant-beaumont",
+        "DESCRIPTION": "Casual Mexican Dining. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1441823, 30.0850657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 19,
+        "NAME": "JWilsons",
+        "ADDRESS": "4190 Gladys Ave, Beaumont, TX 77706",
+        "TYPE": "American",
+        "WEBSITE": "https://jwilsons.com/",
+        "DESCRIPTION": "American Food that is Local and Homegrown. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1470987, 30.0936372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 20,
+        "NAME": "New York Pizza & Pasta",
+        "ADDRESS": "4405 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Pizza & Pasta",
+        "WEBSITE": "http://www.newyorkpizzaandpasta.com/",
+        "DESCRIPTION": "Just plain good Italian food. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1499852, 30.0858135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 21,
+        "NAME": "Tia Juanita's Fish Camp",
+        "ADDRESS": "5555 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Seafood and Mexican",
+        "WEBSITE": "https://www.yelp.com/biz/tia-juanitas-fish-camp-beaumont",
+        "DESCRIPTION": "A mix of Seafood and Mexican all throughout the menu. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1553147, 30.0827809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 22,
+        "NAME": "Willy Burger",
+        "ADDRESS": "5535 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Burgers",
+        "WEBSITE": "http://willy-burger.com/",
+        "DESCRIPTION": "A Retro take on burgers and shakes. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1550138, 30.0829995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 23,
+        "NAME": "Crown Pizza",
+        "ADDRESS": "5535 Calder Ave Suite A, Beaumont, TX 77706",
+        "TYPE": "Pizza",
+        "WEBSITE": "https://www.yelp.com/biz/crown-pizza-beaumont",
+        "DESCRIPTION": "Thin Crust Neapolitan Pizza that is authentic."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1550105, 30.0830813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 24,
+        "NAME": "Chaba Thai Bistro",
+        "ADDRESS": "6434 Phelan Blvd, Beaumont, Tx, 77706",
+        "TYPE": "Thai",
+        "WEBSITE": "https://www.yelp.com/biz/chaba-thai-bistro-beaumont-2",
+        "DESCRIPTION": "Unassuming Thai Dining"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1698654, 30.0790188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 25,
+        "NAME": "Elena's",
+        "ADDRESS": "6290 Phelan Blvd, Beaumont, Tx, 77706",
+        "TYPE": "Mexican",
+        "WEBSITE": "https://www.yelp.com/biz/elenas-mexican-restaurant-beaumont-2?osq=elena%27s",
+        "DESCRIPTION": "A mix of Seafood and Mexican all throughout the menu. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1601713, 30.0841488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 26,
+        "NAME": "Monica's Restaurant",
+        "ADDRESS": "6385 Calder Avenue, Suite H, Beaumont, TX 77706",
+        "TYPE": "American",
+        "WEBSITE": "http://www.monicas-restaurant.com/",
+        "DESCRIPTION": "Farm to Market Food. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1686752, 30.0766723]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 27,
+        "NAME": "Boomtown BBQ",
+        "ADDRESS": "6385 Calder Avenue, Beaumont, TX 77706",
+        "TYPE": "Barbeque",
+        "WEBSITE": "https://boomtownbbq.com/",
+        "DESCRIPTION": "Providing inventive barbeque offerings. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1686674, 30.0763512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 28,
+        "NAME": "The West",
+        "ADDRESS": "6445 Calder Avenue, Beaumont, TX 77706",
+        "TYPE": "Bar and Grill",
+        "WEBSITE": "http://www.thewestbeaumont.com/",
+        "DESCRIPTION": "Casual dining with a bar atmosphere, but also outdoor dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1696155, 30.0765206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 29,
+        "NAME": "The Grill",
+        "ADDRESS": "6680 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Upscale Dining",
+        "WEBSITE": "theaspgrill.com",
+        "DESCRIPTION": "Upscale dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1714955, 30.0751298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "The Grill",
+        "ADDRESS": "6680 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Upscale Dining",
+        "WEBSITE": "theaspgrill.com",
+        "DESCRIPTION": "Upscale dining."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1714955, 30.0751298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Frankie's Italian Grill",
+        "ADDRESS": "105 I-10, Beaumont, TX 77707",
+        "TYPE": "Italian food and pizza",
+        "WEBSITE": "http://frankiesgrill.net/",
+        "DESCRIPTION": "Providing traditional Itailian Food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1367948, 30.0805889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Casa Tapatia Mexican Restaurant & Bar",
+        "ADDRESS": "145 I-10 Frontage Rd, Beaumont, TX 77707",
+        "TYPE": "Mexican",
+        "WEBSITE": "https://www.yelp.com/biz/casa-tapatia-mexican-restaurant-and-bar-beaumont-2",
+        "DESCRIPTION": "Family-owned cantina."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1367948, 30.0805889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Monterey House Restaurant",
+        "ADDRESS": "1090 S 11th St, Beaumont, TX 77701",
+        "TYPE": "Mexican",
+        "WEBSITE": "http://www.montereyhousebmt.com/",
+        "DESCRIPTION": "Family-owned Mexican food since 1963."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1298395, 30.0662373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Carlito's Mexican Restuarant",
+        "ADDRESS": "890 Amarillo St, Beaumont, TX 77701",
+        "TYPE": "Mexican",
+        "WEBSITE": "https://carlitosbmt.com/#!/page_about",
+        "DESCRIPTION": "Family-owned Mexican food since 1963."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1128017, 30.068764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "10 De Mayo Beaumont",
+        "ADDRESS": "8350 College St, Beaumont, TX 77707",
+        "TYPE": "Mexican",
+        "WEBSITE": "http://10demayobeaumont.com/sobre-nosotros/",
+        "DESCRIPTION": "Family-owned Mexican food since 1963."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.188271, 30.0676744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "J & J WIngs & Seafood",
+        "ADDRESS": "5220 Eastex Fwy, Beaumont, TX 77708",
+        "TYPE": "Chciken and Seafood",
+        "WEBSITE": "https://m.facebook.com/JJwingsBeaumont/",
+        "DESCRIPTION": "Providing wings and seafood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.188271, 30.0676744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "J & J WIngs & Seafood",
+        "ADDRESS": "2905 Washington Blvd, Beaumont, TX 77705",
+        "TYPE": "Chicken & Seafood",
+        "WEBSITE": "https://www.yelp.com/biz/johns-seafood-beaumont-2",
+        "DESCRIPTION": "Down Home Southern Seafood and Fried Chicken."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1157429, 30.0556635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Uncle Henry's Tamales",
+        "ADDRESS": "4358 E Lucas Dr, Beaumont, TX 77708",
+        "TYPE": "Tamales",
+        "WEBSITE": "http://unclehenrystamales.com/",
+        "DESCRIPTION": "Locally Owned since 1937."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1445723, 30.1182307]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 30,
+        "NAME": "Elena's",
+        "ADDRESS": "1865 College St, Beaumont, TX 77701",
+        "TYPE": "Mexican",
+        "WEBSITE": "https://www.yelp.com/biz/elenas-mexican-restaurant-beaumont-2",
+        "DESCRIPTION": "Long Time Mexican Restaurant."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1083696, 30.0699166]
+      }
+    }
+  ]
+}

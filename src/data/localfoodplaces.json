@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 1,
+        "NAME": "Doguet's Rice Milling Company",
+        "ADDRESS": "795 S Major Dr, Beaumont, TX 77707",
+        "TYPE": "Agricultural Business",
+        "WEBSITE": "https://www.doguets.com/",
+        "DESCRIPTION": "Rice Mill."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.189236, 30.0682112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 2,
+        "NAME": "Basic Foods",
+        "ADDRESS": "The Colonnade, 6220 Phelan Blvd, Beaumont, TX 77706",
+        "TYPE": "Store",
+        "WEBSITE": "http://www.basicfoodsmarket.com/retailer/store_templates/shell_id_1.asp?storeID=C6N05WE8LVKH8G5R63V9PPM63EBEDSL3",
+        "DESCRIPTION": "Health Food Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1676618, 30.0795906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 3,
+        "NAME": "For the Love of Foods",
+        "ADDRESS": "3677 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Store",
+        "WEBSITE": "no website",
+        "DESCRIPTION": "Health Food Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1676618, 30.0795906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 3,
+        "NAME": "Honey B Ham Company",
+        "ADDRESS": "6385 Calder Ave # A, Beaumont, TX 77706",
+        "TYPE": "Store and Restaurant",
+        "WEBSITE": "https://honeybhambeaumont.com/",
+        "DESCRIPTION": "Order Hams, Turkeys, or eat lunch "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1686606, 30.0768723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 4,
+        "NAME": "Seafodd Lover Inc.",
+        "ADDRESS": "4389 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Store",
+        "WEBSITE": "https://www.yelp.com/biz/seafood-lover-inc-beaumont",
+        "DESCRIPTION": "Fresh Seafood Market."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1494822, 30.085704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 4,
+        "NAME": "Balaji India Food",
+        "ADDRESS": "4230 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Store",
+        "WEBSITE": "https://www.yelp.com/biz/balaji-india-food-and-grocery-beaumont",
+        "DESCRIPTION": "Indian Food Market."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1488575, 30.0859749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 5,
+        "NAME": "Bandos",
+        "ADDRESS": "215 N 11th St, Beaumont, TX 77702",
+        "TYPE": "Catering, Lunch, and Religious Store",
+        "WEBSITE": "https://www.bandoscatering.com/",
+        "DESCRIPTION": "Catering, Lunch, and Religious Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1302941, 30.0837252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 6,
+        "NAME": "Texas Coffee Company",
+        "ADDRESS": "3297 S M L King Jr Pkwy, Beaumont, TX 77705",
+        "TYPE": "Food Manufacturer",
+        "WEBSITE": "https://www.texjoy.com/",
+        "DESCRIPTION": "Making Seasoning and Coffee "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0810676, 30.05363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Zummo Meat Co.",
+        "ADDRESS": "3705 St James Blvd, Beaumont, TX 77705",
+        "TYPE": "Meat wholesaler",
+        "WEBSITE": "http://zummo.com/",
+        "DESCRIPTION": "Making Sausage and Boudin Products. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1330417, 30.0519692]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Rao's Bakery",
+        "ADDRESS": "2596 Calder Ave, Beaumont, TX 77702",
+        "TYPE": "Bakery",
+        "WEBSITE": "https://raosbakery.com/",
+        "DESCRIPTION": "Not Just a Bakery serving all types of items."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1268514, 30.0860202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Ana's Mexican Bakery",
+        "ADDRESS": "2596 Calder Ave, Beaumont, TX 77702",
+        "TYPE": "Bakery",
+        "WEBSITE": "https://www.facebook.com/pages/category/Cupcake-Shop/Anas-Mexican-Bakery-Beaumont-189260871155778/",
+        "DESCRIPTION": "A Bakery with influeneces from Mexico."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1264367, 30.0859491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Martha's Bakery",
+        "ADDRESS": "2949 College St, Beaumont, TX 77701",
+        "TYPE": "Bakery",
+        "WEBSITE": "https://marthas-bakery.hub.biz/",
+        "DESCRIPTION": "A Bakery that also makes wedding cakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1165567, 30.0680889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Pour Brothers Brewery",
+        "ADDRESS": "585 Wall St, Beaumont, TX 77701",
+        "TYPE": "Brewery",
+        "WEBSITE": "http://pourbrothersbrewery.com/",
+        "DESCRIPTION": "A local brewery in downtown."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.0981595, 30.079121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Struggle Street Brewing Company",
+        "ADDRESS": "2140 Calder Ave, Beaumont, TX 77701",
+        "TYPE": "Brewery",
+        "WEBSITE": "https://www.facebook.com/pages/category/Brewery/Struggle-Street-Brewing-Company-2404780126229806/",
+        "DESCRIPTION": "A brewpub/nano-brewery located in old town. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1174161, 30.0861264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Jack's Pak-It",
+        "ADDRESS": "4505 Calder Ave, Beaumont, TX 77706",
+        "TYPE": "Store/Lunch Place",
+        "WEBSITE": "http://www.jackspakit.com/",
+        "DESCRIPTION": "Meat Market, Deli, and Prepared Food. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1506383, 30.0854252]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Rao's Bakery",
+        "ADDRESS": "4440 Dowlen Rd, Beaumont, TX 777066",
+        "TYPE": "Bakery",
+        "WEBSITE": "https://raosbakery.com/",
+        "DESCRIPTION": "Not Just a Bakery serving all types of items. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1580454, 30.1218325]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Sertinos Cafe",
+        "ADDRESS": "5657 Eastex Fwy, Beaumont, TX 77706",
+        "TYPE": "Coffee and Cafe",
+        "WEBSITE": "http://www.sertinosbeaumont.com/",
+        "DESCRIPTION": "Casual dining, Fresh Coffee, and Late-Night Food."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1536975, 30.123811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Abbie's Imports",
+        "ADDRESS": "5335 Fannett Rd, Beaumont, TX 77705",
+        "TYPE": "Mediterranean Grocery and Deli",
+        "WEBSITE": "https://www.abbiesimports.com/",
+        "DESCRIPTION": "Serving flavors from around the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1502342, 30.0347349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "DJ's Boudain",
+        "ADDRESS": "4840 Lafin Dr, Beaumont, TX 77705",
+        "TYPE": "Food Manufacturer",
+        "WEBSITE": "http://www.djsboudain.com/",
+        "DESCRIPTION": "Making all things Boudain here."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1344053, 30.0401229]
+      }
+    }
+  ]
+}
