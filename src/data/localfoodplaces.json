@@ -74,7 +74,7 @@
       "properties": {
         "PARK_ID": 960,
         "FACILITYID": 4,
-        "NAME": "Seafodd Lover Inc.",
+        "NAME": "Seafood Lover Inc.",
         "ADDRESS": "4389 Calder Ave, Beaumont, TX 77706",
         "TYPE": "Store",
         "WEBSITE": "https://www.yelp.com/biz/seafood-lover-inc-beaumont",
@@ -323,6 +323,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-94.1738214, 30.0758059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "FACILITYID": 7,
+        "NAME": "Pinoy Asian Market",
+        "ADDRESS": "520 S 11th St, Beaumont, TX 77701",
+        "TYPE": "Store",
+        "WEBSITE": "https://www.cottoncreekwinery.com/",
+        "DESCRIPTION": "Asian Market."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1301743, 30.0729636]
       }
     }
   ]
