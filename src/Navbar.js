@@ -16,36 +16,35 @@ import { useAuth0 } from './react-auth0-spa';
 
 const drawerWidth = 300;
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   root: {
     background: 'linear-gradient(45deg, #lightred 30%, #FF8E53 90%)',
     borderRadius: 8,
     border: 0,
     color: 'white',
     height: 60,
-    width: 2000,
     padding: '0 30px',
-    boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)'
+    boxShadow: '0 3px 5px 2px rgba(255, 105, 135, .3)',
   },
   menuButton: {
-    marginRight: theme.spacing(2)
+    marginRight: theme.spacing(2),
   },
   title: {
     flexGrow: 0.25,
-    color: 'black'
+    color: 'black',
   },
   hide: {
-    display: 'none'
+    display: 'none',
   },
   drawer: {
     width: drawerWidth,
     flexShrink: 0,
-    backgroundColor: 'black'
+    backgroundColor: 'black',
   },
   drawerPaper: {
     width: drawerWidth,
     backgroundColor: 'aquamarine',
-    color: 'black'
+    color: 'black',
   },
   drawerHeader: {
     display: 'flex',
@@ -53,8 +52,8 @@ const useStyles = makeStyles(theme => ({
     alignItems: 'center',
     padding: '0 8px',
     ...theme.mixins.toolbar,
-    justifyContent: 'flex-end'
-  }
+    justifyContent: 'flex-end',
+  },
 }));
 
 function ButtonAppBar() {
@@ -96,11 +95,10 @@ function ButtonAppBar() {
           </Typography>
           <Typography
             variant="h4"
-            colorInherit="inherit"
             className={classes.title}
           >
             <Link className="Link" to="/">
-              <p>Searching for the Local Food Places</p>
+              <p>LocalFoodPlaces</p>
             </Link>
           </Typography>
         </Toolbar>
@@ -113,7 +111,7 @@ function ButtonAppBar() {
         open={open}
         onClose={handleDrawerClose}
         classes={{
-          paper: classes.drawerPaper
+          paper: classes.drawerPaper,
         }}
       >
         <IconButton onClick={handleDrawerClose}>

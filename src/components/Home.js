@@ -31,7 +31,6 @@ const Home = props => {
       <Container className={classes.root} maxWidth="sm">
         <Typography
           variant="h6"
-          colorInherit="inherit"
           className={classes.grow}
         >
           <Link className="Link" to="/about">
@@ -41,7 +40,6 @@ const Home = props => {
         <br />
         <Typography
           variant="h6"
-          colorInherit="inherit"
           className={classes.root}
         >
           <Link className="Link" to="/searchablemap">

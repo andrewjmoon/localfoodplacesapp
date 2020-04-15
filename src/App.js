@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { Router, Switch } from 'react-router-dom';
 import Map1 from './Map1';
 import Map2 from './Map2';
 import SearchableMap from './SearchableMap';
