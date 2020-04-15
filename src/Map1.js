@@ -39,7 +39,7 @@ export default function App() {
       >
         {parkDate.features.map(park => (
           <Marker
-            key={park.properties.PARK_ID}
+            key={park.properties.FACILITYID}
             latitude={park.geometry.coordinates[1]}
             longitude={park.geometry.coordinates[0]}
           >

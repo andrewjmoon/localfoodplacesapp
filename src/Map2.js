@@ -9,13 +9,13 @@ export default function App() {
     longitude: -94.0422391,
     width: '150vw',
     height: '150vh',
-    zoom: 10
+    zoom: 10,
   });
 
   const [selectedPark, setSelectedPark] = useState(null);
 
   useEffect(() => {
-    const listener = e => {
+    const listener = (e) => {
       if (e.key === 'Escape') {
         setSelectedPark(null);
       }
@@ -33,19 +33,19 @@ export default function App() {
         {...viewport}
         mapboxApiAccessToken={process.env.REACT_APP_MAPS}
         mapStyle="mapbox://styles/mapbox/streets-v11"
-        onViewportChange={viewport => {
+        onViewportChange={(viewport) => {
           setViewport(viewport);
         }}
       >
-        {parkDate.features.map(park => (
+        {parkDate.features.map((park) => (
           <Marker
-            key={park.properties.PARK_ID}
+            key={park.properties.FACILITYID}
             latitude={park.geometry.coordinates[1]}
             longitude={park.geometry.coordinates[0]}
           >
             <button
               className="marker-btn"
-              onClick={e => {
+              onClick={(e) => {
                 e.preventDefault();
                 setSelectedPark(park);
               }}
